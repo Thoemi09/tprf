@@ -41,6 +41,7 @@ set(all_tests
   eliashberg/regression_test_two_band
   eliashberg/fft_product_constant_vs_full
   eliashberg/symmetrize_delta
+  rpa_rt
 )
 
 foreach(test ${all_tests})
